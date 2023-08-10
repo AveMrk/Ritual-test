@@ -9,27 +9,27 @@
   { font-style: normal;
     font-family: Gilroy Bold;
     font-weight: 400;
-    src: url("../fonts/Gilroy-ExtraBold.otf");
+    src: url("/fonts/Gilroy-ExtraBold.otf");
 }
 
 @font-face 
   { font-style: normal;
     font-family: Gilroy;
     font-weight: 400;
-    src: url("../fonts/Gilroy-Light.otf");
+    src: url("/fonts/Gilroy-Light.otf");
 }
 
 @font-face 
   { font-style: normal;
     font-family: Inter;
     font-weight: 400;
-    src: url("../fonts/Inter-Light.otf");
+    src: url("/fonts/Inter-Light.otf");
 }
 @font-face 
   { font-style: normal;
     font-family: Akaya Kanadaka;
     font-weight: 400;
-    src: url("../fonts/AkayaKanadaka-Regular.otf");
+    src: url("/fonts/AkayaKanadaka-Regular.otf");
 }
 
 html, body {
@@ -42,7 +42,7 @@ main {
 }
 
 .ritual-preview {
-  background-image: url("../svg/curves-bg-mobile.svg");
+  background-image: url("/svg/curves-bg-mobile.svg");
   background-repeat: no-repeat;
   background-size: cover;
 }
